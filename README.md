@@ -7,11 +7,11 @@ I love building systems from scratch, whether it's game engines, procedural tool
 Always curious, always learning.  
 
 ### 🧰 Tech Stack:
-Gamedev:  
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-%2320232a.svg?style=for-the-badge&logo=unreal-engine)
-![Unity](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity)
+Main:  
 ![C++](https://img.shields.io/badge/C++-%2320232a.svg?style=for-the-badge&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/C%23-%2320232a.svg?style=for-the-badge&logo=csharp)  
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-%2320232a.svg?style=for-the-badge&logo=unreal-engine)
+![C#](https://img.shields.io/badge/C%23-%2320232a.svg?style=for-the-badge&logo=csharp)
+![Unity](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity)  
 
 Other:  
 ![OpenGL](https://img.shields.io/badge/OpenGL-%2320232a.svg?style=for-the-badge&logo=openGL)
@@ -20,10 +20,9 @@ Other:
 ![CMake](https://img.shields.io/badge/CMake-%2320232a.svg?style=for-the-badge&logo=cmake&logoColor=white)  
 
 Web:  
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%2320232a.svg?style=for-the-badge&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-
 
 ## Stats
 ![Guillem's github stats](https://github-readme-stats.vercel.app/api?username=guillemsrr&show_icons=true&hide_border=true&theme=dark)
@@ -33,6 +32,7 @@ Web:
 [![trophy](https://github-profile-trophy.vercel.app/?username=guillemsrr&theme=onedark)](https://github.com/gkhan205/github-profile-trophy)
 -->
 
+<!--
 ## 🎮 Featured Projects
 
 ### SDL+OpenGL: 
@@ -64,6 +64,7 @@ Web:
 ---
 ### Godot:
 [![Jigsaw_Puzzle_WFC](https://github-readme-stats.vercel.app/api/pin/?username=guillemsrr&repo=Jigsaw_Puzzle_WFC&theme=dark)](https://github.com/guillemsrr/Jigsaw_Puzzle_WFC)
+-->
 
 ---
 
