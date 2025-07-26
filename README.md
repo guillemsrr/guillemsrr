@@ -6,20 +6,20 @@ My professional background ranges educational mobile games, solo indie-dev, and 
 I love building systems from scratch, whether it's game engines, procedural tools, or gameplay systems.  
 Always curious, always learning.  
 
-### 🧰 Tech Stack:
-Main:  
+### Tech Stack:
+- Main:  
 ![C++](https://img.shields.io/badge/C++-%2320232a.svg?style=for-the-badge&logo=c%2B%2B)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-%2320232a.svg?style=for-the-badge&logo=unreal-engine)
 ![C#](https://img.shields.io/badge/C%23-%2320232a.svg?style=for-the-badge&logo=csharp)
 ![Unity](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity)  
 
-Other:  
+- Other:  
 ![OpenGL](https://img.shields.io/badge/OpenGL-%2320232a.svg?style=for-the-badge&logo=openGL)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%2320232a.svg?style=for-the-badge&logo=godot-engine)
 ![Python](https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=python)
 ![CMake](https://img.shields.io/badge/CMake-%2320232a.svg?style=for-the-badge&logo=cmake&logoColor=white)  
 
-Web:  
+- Web:  
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%2320232a.svg?style=for-the-badge&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
