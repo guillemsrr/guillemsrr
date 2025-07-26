@@ -7,13 +7,22 @@ I love building systems from scratch, whether it's game engines, procedural tool
 Always curious, always learning.  
 
 ### 🧰 Tech Stack:
+Gamedev:  
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-%2320232a.svg?style=for-the-badge&logo=unreal-engine)
 ![Unity](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity)
-![OpenGL](https://img.shields.io/badge/OpenGL-%2320232a.svg?style=for-the-badge&logo=openGL)
 ![C++](https://img.shields.io/badge/C++-%2320232a.svg?style=for-the-badge&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/C%23-%2320232a.svg?style=for-the-badge&logo=c-sharp)
+![C#](https://img.shields.io/badge/C%23-%2320232a.svg?style=for-the-badge&logo=csharp)  
+
+Other:  
+![OpenGL](https://img.shields.io/badge/OpenGL-%2320232a.svg?style=for-the-badge&logo=openGL)
+![Godot Engine](https://img.shields.io/badge/GODOT-%2320232a.svg?style=for-the-badge&logo=godot-engine)
 ![Python](https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=python)
+![CMake](https://img.shields.io/badge/CMake-%2320232a.svg?style=for-the-badge&logo=cmake&logoColor=white)  
+
+Web:  
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%2320232a.svg?style=for-the-badge&logo=typescript)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 
 ## Stats
@@ -25,7 +34,8 @@ Always curious, always learning.
 -->
 
 ## 🎮 Featured Projects
-### SDL+OpenGL:
+
+### SDL+OpenGL: 
 [![raytracing-audio](https://github-readme-stats.vercel.app/api/pin/?username=guillemsrr&repo=raytracing-audio&theme=dark)](https://github.com/guillemsrr/raytracing-audio)
 [![Snake](https://github-readme-stats.vercel.app/api/pin/?username=guillemsrr&repo=snake-pathfinding&theme=dark)](https://github.com/guillemsrr/snake-pathfinding)
 [![SerraEngine](https://github-readme-stats.vercel.app/api/pin/?username=guillemsrr&repo=SerraEngine&theme=dark)](https://github.com/guillemsrr/SerraEngine)
