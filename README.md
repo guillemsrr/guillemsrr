@@ -15,7 +15,7 @@ Always curious, always learning.
 
 - Other:  
 ![OpenGL](https://img.shields.io/badge/OpenGL-%2320232a.svg?style=for-the-badge&logo=openGL)
-![Godot Engine](https://img.shields.io/badge/GODOT-%2320232a.svg?style=for-the-badge&logo=godot-engine)
+![SDL3](https://img.shields.io/badge/SDL3-%2320232a.svg?style=for-the-badge&logo=SDL&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=python)
 ![CMake](https://img.shields.io/badge/CMake-%2320232a.svg?style=for-the-badge&logo=cmake&logoColor=white)  
 
