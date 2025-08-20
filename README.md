@@ -1,10 +1,7 @@
 ## Hi there! 👋
 
 I'm Guillem Serra, a passionate game developer with over 6 years of experience.  
-My professional background ranges educational mobile games, solo indie-dev, and AA PC/Console game studios.  
-
-I love building systems from scratch, whether it's game engines, procedural tools, or gameplay systems.  
-Always curious, always learning.  
+My professional background ranges solo indie-dev, mobile games and AA PC/Console game studios.   
 
 ### Tech Stack:
 - Main:  
@@ -24,8 +21,8 @@ Always curious, always learning.
 ![TypeScript](https://img.shields.io/badge/TypeScript-%2320232a.svg?style=for-the-badge&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2320232a.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
-## Stats
-![Guillem's github stats](https://github-readme-stats.vercel.app/api?username=guillemsrr&show_icons=true&hide_border=true&theme=dark)
+<!-- ## Stats
+<!-- ![Guillem's github stats](https://github-readme-stats.vercel.app/api?username=guillemsrr&show_icons=true&hide_border=true&theme=dark) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guillemsrr&layout=compact&theme=dark&hide_border=true) -->
 
 <!--
@@ -71,29 +68,3 @@ Always curious, always learning.
 📫 **Let's connect:**  
 Feel free to reach out if you'd like to collaborate or just talk games and tech!  
 [guillemsrr.github.io](https://guillemsrr.github.io) · [LinkedIn](https://www.linkedin.com/in/guillemserralorenz/)
-
-
-<!--
-[![Linkedin: Ghazi](https://img.shields.io/badge/-Ghazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghazi-khan/)](https://www.linkedin.com/in/ghazi-khan/)
-[![GitHub Ghazi](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/gkhan205)
-[![Portfolio](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)]([https://github.com/gkhan205](https://guillemsrr.github.io/))
-[![C++](https://img.shields.io/badge/C++-20-blue.svg)](https://en.cppreference.com/w/cpp/20)
-
- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCio7gIFilw6wsgbTZAVOBrg?style=social)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCio7gIFilw6wsgbTZAVOBrg?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/ghazikhan205?style=social)
--->
-
-<!--
-**guillemsrr/guillemsrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working as **Principal Software Engineer @ MarketCast**
-- 🌱 I’m currently learning **Generative AI**
-- 👯 I’m looking to collaborate on open source/commercial projects
-- 🤔 I’m looking for help with digital marketing to drive traffic to my blog
-- 💬 Ask me about **Web Development**
-- 📫 How to reach me:
-  **[LinkedIn](https://www.linkedin.com/in/ghazi-khan/), [Twitter](https://twitter.com/ghazikhan205), [Instagram](https://instagram.com/codewithghazi)**
--->
