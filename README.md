@@ -13,8 +13,9 @@ My professional background ranges solo indie-dev, mobile games and AA PC/Console
 - Other:  
 ![OpenGL](https://img.shields.io/badge/OpenGL-%2320232a.svg?style=for-the-badge&logo=openGL)
 ![SDL3](https://img.shields.io/badge/SDL3-%2320232a.svg?style=for-the-badge&logo=SDL&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=python)
 ![CMake](https://img.shields.io/badge/CMake-%2320232a.svg?style=for-the-badge&logo=cmake&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=python)
+![Rust](https://img.shields.io/badge/Rust-%2320232a.svg?style=for-the-badge&logo=rust)
 
 - Web:  
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
